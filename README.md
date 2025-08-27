@@ -16,3 +16,12 @@ graph TD;
   B --> |SIM| C[Aprovado];
   B --> |NÃO| D[Reprovado];
 ```
+
+```mermaid
+gantt
+title Exemplo Gráfico Gantt
+dateFormat YYYY-MM-DD
+section 1ºBimestre
+1ºBimestre :a1, 2025-02-02, 60d
+section 2ºBimestre
+```
