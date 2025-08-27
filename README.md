@@ -1,4 +1,4 @@
-```mermaid
+``` mermaid
 flowchart ID
 
   A(["Inicio"])
